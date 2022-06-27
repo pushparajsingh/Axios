@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Axios/static/css/main.266dca7f.css",
+    "main.js": "/Axios/static/js/main.79e6b629.js",
+    "static/js/787.637e0c58.chunk.js": "/Axios/static/js/787.637e0c58.chunk.js",
+    "index.html": "/Axios/index.html",
+    "main.266dca7f.css.map": "/Axios/static/css/main.266dca7f.css.map",
+    "main.79e6b629.js.map": "/Axios/static/js/main.79e6b629.js.map",
+    "787.637e0c58.chunk.js.map": "/Axios/static/js/787.637e0c58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.266dca7f.css",
+    "static/js/main.79e6b629.js"
+  ]
+}
